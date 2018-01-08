@@ -14,6 +14,7 @@
 - Comsci
   - 4 years
   
-4. FOur
+4. Four
 5. Five
 6. Six
+
